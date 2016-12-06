@@ -29,5 +29,5 @@
             })
         }
     };
-    angular.module('').service('apiService', apiService);
+    angular.module('app').service('apiService', apiService);
 })();
